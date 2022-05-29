@@ -1,6 +1,5 @@
 """
 Student: Amit Finzi
-ID: 206589822
 Assignment no. 6
 Program: minesweeper.py
 """
